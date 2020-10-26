@@ -11,7 +11,4 @@ Grade Calculator using html,css and javascript.
 # About our project
 Our front end project is the result of usage of css,html and java script. It takes the marks of each subject of a student and calculates the total, percentage and grade of a person and displays the result. Where total is given by sum of all subjects, percentage is calculated by formula given below in the block diagram and based on the percentage grades are classified into different categories and result is evaluated.
 
-
-
-
-
+![my project](
