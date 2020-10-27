@@ -15,5 +15,5 @@ Our front end project is the result of usage of css,html and java script. It tak
 
 # DEMO OF OUR PROJECT
 https://youtu.be/mNJBgp3qVMQ
-# REPL link
+# here u can see our project.
 https://OverjoyedEducatedScales.rajitha19.repl.co
