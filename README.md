@@ -1,7 +1,7 @@
 # TEAM MEMBERS
 
-1.Pithani.Likhitha Devi-19pa1a05d9
-2.Sandhireddy.Lakshmi Manasa-19pa1a05g3
+1.Pithani.Likhitha Devi-19pa1a05d9\
+2.Sandhireddy.Lakshmi Manasa-19pa1a05g3\
 3.Ponduru.Rajitha-19pa1a05e4
 
 # OVJECTIVE OF OUR PROJECT
